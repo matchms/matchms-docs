@@ -1,5 +1,6 @@
 name: matchms-docs
 channels:
+  - bioconda
   - conda-forge
   - defaults
 dependencies:
@@ -9,4 +10,4 @@ dependencies:
   - pip
   - jupyter-book
   - matplotlib
-  - numpy
+  - matchms
