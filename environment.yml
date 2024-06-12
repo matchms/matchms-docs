@@ -11,3 +11,6 @@ dependencies:
   - jupyter-book
   - matplotlib
   - matchms
+  - scipy=1.10.1
+  - spec2vec
+  - matchmsextras
