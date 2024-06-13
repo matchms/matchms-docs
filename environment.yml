@@ -5,12 +5,9 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - numpy
   - pandas
   - pip
   - jupyter-book
-  - matplotlib
   - matchms
-  - scipy=1.10.1
   - spec2vec
   - matchmsextras
