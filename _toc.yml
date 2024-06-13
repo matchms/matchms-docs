@@ -10,3 +10,4 @@ parts:
     - file: notebooks/matchms_tutorial_01_building_analysis_pipeline.ipynb
     - file: notebooks/matchms_tutorial_02_compute_similarities_with_Spec2Vec
     - file: notebooks/matchms_tutorial_03_create_graph_from_Spec2Vec_similarities
+    - file: notebooks/matchms_filtering_tutorial.ipynb
